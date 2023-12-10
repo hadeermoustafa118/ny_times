@@ -11,6 +11,6 @@ to decrease hard code, constants classes are generated for api constants, string
 
 And this screenshots of the app 
 
-![details](https://drive.google.com/file/d/1M3nwKr4m2WBAfFbwc98d7JWsEHRO8j8C/view?usp=sharing)
-![home](https://drive.google.com/file/d/1w4nXw-yD1mWH8Ux_2z90lTznM1kmeoOM/view?usp=sharing)
+![details](https://imgur.com/GdTW5gJ)
+![home](https://imgur.com/q4u6End)
 
