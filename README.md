@@ -8,9 +8,3 @@ also using DIO to connect the api, service locator as a design pattern to access
 either is used for handling error via error model, exception and failure.
 
 to decrease hard code, constants classes are generated for api constants, strings and colors.
-
-And this screenshots of the app 
-
-![details](https://imgur.com/jhNOl9H)
-![home](https://imgur.com/XD6Wy3o)
-
